@@ -1,7 +1,7 @@
-Kotlin JS Hello World Demo
-=======================
+Kotlin JS Data Class to String Demo
+===================================
 
-Hello world from kotlin-js.
+对于一个data class，直接调用它的`.toString()`方法，就可以生成完美的字符串，方便调试。
 
 Run:
 ----
@@ -11,6 +11,4 @@ Run:
 open index.html
 ```
 
-You will see "Hello, Kotlin!" in console of your browser's developer console.
-
-
+Then open browser console.
